@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="10%" height="10%" />
 </p>
+
+### Contact
+To get in touch over email, click [here](keenanschott@mines.edu).
