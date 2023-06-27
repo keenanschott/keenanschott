@@ -10,12 +10,12 @@
 - *Advent-Of-Code*; my solutions to AOC 2022. I currently don't have a lot of capacity for large projects, so I've been working thorugh last year's AOC to keep my skills sharp.
 - *Datava*; I work as a software engineering intern for [Datava](https://datava.com/).
 <p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="10%" height="10%" />
+  <img src="https://media.giphy.com/media/1rMYYnUiubloSDL2yr/giphy.gif" width="20%" height="20%" />
 </p>
 
 ### Contact
 To get in touch, I can be reached over email at keenanschott@mines.edu. 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/E7Mp5WooRUPvy/giphy.gif" width="10%" height="10%" />
+  <img src="https://media.giphy.com/media/Pos54CkOtkDeg/giphy.gif" width="10%" height="10%" />
 </p>
