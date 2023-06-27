@@ -1,17 +1,14 @@
-### Hi there 👋
+### Past Projects
+- *SVD-Image-Compression*; a brief Python program showcasing SVD image compression.
+- *Clue*; Clue written in Java.
+- *Arbitrage-Calculator*; a simple arbitrage calculator for sports betting.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="10%" height="10%" />
+</p>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-<!--
-**keenanschott/keenanschott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- *Advent-Of-Code*; my solutions to AOC 2022. I currently don't have a lot of capacity for large projects, so I've been working thorugh last year's AOC to keep my skills sharp.
+- *Datava*; I work as a software engineering intern for [Datava](https://datava.com/).
+<p align="center">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="10%" height="10%" />
+</p>
