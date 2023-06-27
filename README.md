@@ -14,4 +14,8 @@
 </p>
 
 ### Contact
-To get in touch over email, click [here](keenanschott@mines.edu).
+To get in touch, I can be reached over email at keenanschott@mines.edu. 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/E7Mp5WooRUPvy/giphy.gif" width="10%" height="10%" />
+</p>
