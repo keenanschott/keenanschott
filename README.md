@@ -5,7 +5,7 @@
 - *[CS-Curriculum-Flowwchart](https://github.com/keenanschott/CS-Curriculum-Flowchart)*; an intuitive tool for students to see what classes come next.
 
 ### Current Projects
-- *[Advent-of-Code-2023](https://github.com/keenanschott/Advent-of-Code-2023)*; my answers to Advent of Code 2023. 
+- *[Advent-of-Code-2023](https://github.com/keenanschott/Advent-of-Code-2023)*; my answers to Advent of Code 2023 (I swear I'll finish it eventually). 
 - *[Datava](https://datava.com/)*; I work as a software engineering intern for Datava.
 
 ### Contact
