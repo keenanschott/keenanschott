@@ -1,6 +1,6 @@
 **Software Engineer Intern at [ICR, Inc.](https://www.icr-team.com/)**
 
-[Resume](https://keenanschott.com/portfolio/resume.pdf) | [Website](https://keenanschott.com) | [LinkedIn](https://www.linkedin.com/in/keenanschott)
+[LinkedIn](https://www.linkedin.com/in/keenanschott) | [Resume](https://keenanschott.com/portfolio/resume.pdf) | [Website](https://keenanschott.com)
 
 **Projects**
 - *[CS-Curriculum-Flowchart](https://github.com/keenanschott/CS-Curriculum-Flowchart)*; an intuitive tool for students to see what classes come next.
