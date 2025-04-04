@@ -7,9 +7,9 @@ I am also a former Software Engineer Intern at [ICR, Inc.](https://www.icr-team.
 **Projects**
 - *[keenanschott.com](https://github.com/keenanschott/keenanschott.com)*; my personal website.
 - *[arbitragecalculatorus.com](https://github.com/keenanschott/arbitragecalculatorus.com)*; a simple arbitrage calculator for sports betting.
+- *[CS-Curriculum-Flowchart](https://github.com/keenanschott/CS-Curriculum-Flowchart)*; an intuitive tool for students to see what classes come next.
 - *[Clue](https://github.com/keenanschott/Clue)*; Clue written in Java.
 - *[SVD-Image-Compression](https://github.com/keenanschott/SVD-Image-Compression)*; a brief Python program showcasing [SVD](https://en.wikipedia.org/wiki/Singular_value_decomposition) image compression.
-- *[CS-Curriculum-Flowchart](https://github.com/keenanschott/CS-Curriculum-Flowchart)*; an intuitive tool for students to see what classes come next.
 
 **Stats**
 
